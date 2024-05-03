@@ -1,0 +1,10 @@
+Exam ID: 1 Logic Final 6/7/2023
+Exercise ID: 1
+Exercise Value: Exercise 1 Logic
+Exercise ID: 2
+Exercise Value: Exercise 2 Logic
+Exam ID: 2 Matrice Partiel 6/3/2023
+Exercise ID: 1
+Exercise Value: exercise 1
+Exercise ID: 2
+Exercise Value: Exercise 2

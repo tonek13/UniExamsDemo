@@ -1,0 +1,4 @@
+1 - Tony Loutfallah - M,Exercise ID: 1 Exercise Value: Exercise 1 Logic,Def of Java,My World
+1 - Tony Loutfallah - M,Exercise ID: 1 Exercise Value: exercise 1,Def de mecanqiue,Mouvement
+1 - Tony Loutfallah - M,Exercise ID: 2 Exercise Value: Exercise 2 Logic,Def de Logic,Logic
+1 - Tony Loutfallah - M,Exercise ID: 2 Exercise Value: Exercise 2,Def de la Force,Force

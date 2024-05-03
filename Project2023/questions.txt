@@ -1,0 +1,16 @@
+Exercise ID: Exercise ID: 1 Exercise Value: Exercise 1 Logic
+Question ID: 1
+Question Content: Def of Java
+Question Point: 40
+Exercise ID: Exercise ID: 1 Exercise Value: exercise 1
+Question ID: 1
+Question Content: Def de mecanqiue
+Question Point: 90
+Exercise ID: Exercise ID: 2 Exercise Value: Exercise 2
+Question ID: 2
+Question Content: Def de la Force
+Question Point: 10
+Exercise ID: Exercise ID: 2 Exercise Value: Exercise 2 Logic
+Question ID: 1
+Question Content: Def de Logic
+Question Point: 60
